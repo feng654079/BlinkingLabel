@@ -9,7 +9,8 @@
 Pod::Spec.new do |s|
   s.name             = 'BlinkingLabel'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of BlinkingLabel.'
+  s.summary          = 'A subclass on UIlabel that provides a blink.'
+  s.description      = 'This CocoaPod provides the ability to use a UILabel that may be started and stopped blinking.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
